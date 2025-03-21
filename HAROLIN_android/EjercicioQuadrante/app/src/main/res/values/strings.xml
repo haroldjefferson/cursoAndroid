@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EjercicioQuadrante</string>
+    <string name="titulo1">Text composable</string>
+    <string name="parrafo1">Displays text and follows the recommended Material Design guidelines.</string>
+</resources>
